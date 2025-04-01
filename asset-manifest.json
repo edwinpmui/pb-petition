@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pb-petition/static/css/main.e7d47fdb.css",
-    "main.js": "/pb-petition/static/js/main.44d3183d.js",
+    "main.js": "/pb-petition/static/js/main.df017819.js",
     "static/js/453.a2aa3fae.chunk.js": "/pb-petition/static/js/453.a2aa3fae.chunk.js",
     "index.html": "/pb-petition/index.html",
     "main.e7d47fdb.css.map": "/pb-petition/static/css/main.e7d47fdb.css.map",
-    "main.44d3183d.js.map": "/pb-petition/static/js/main.44d3183d.js.map",
+    "main.df017819.js.map": "/pb-petition/static/js/main.df017819.js.map",
     "453.a2aa3fae.chunk.js.map": "/pb-petition/static/js/453.a2aa3fae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d47fdb.css",
-    "static/js/main.44d3183d.js"
+    "static/js/main.df017819.js"
   ]
 }
